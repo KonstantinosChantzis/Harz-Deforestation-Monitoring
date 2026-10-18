@@ -26,15 +26,15 @@ Time-series monitoring of bark beetle-driven deforestation in the Harz Mountains
 **Forest cover declined by ~23.3% between 2017 and 2025** across the study extent, consistent with the documented bark beetle outbreak in the region.
 
 ### Visual comparison
-![Harz 2017](exports/harz_2017.png)
-![Harz 2021](exports/harz_2021.png)
-![Harz 2025](exports/harz_2025.png)
+![Harz 2017](harz_2017.png)
+![Harz 2021](harz_2021.png)
+![Harz 2025](harz_2025.png)
 
 ### Data
-Raw pixel-count statistics per year are available in [`/data`](data):
-- `harz_lulc_2017_stats.csv`
-- `harz_lulc_2021_stats.csv`
-- `harz_lulc_2025_stats.csv`
+Raw pixel-count statistics per year:
+- [harz_lulc_2017_stats.csv](harz_lulc_2017_stats.csv)
+- [harz_lulc_2021_stats.csv](harz_lulc_2021_stats.csv)
+- [harz_lulc_2025_stats.csv](harz_lulc_2025_stats.csv)
 
 ### Tools
 ArcGIS Pro · ArcGIS Living Atlas (Esri/Impact Observatory Sentinel-2 10m LULC) · Copy Raster · Raster Attribute Tables
@@ -66,15 +66,15 @@ Zeitreihenbasierte Überwachung der borkenkäferbedingten Entwaldung im Harz, De
 **Die Waldfläche ging zwischen 2017 und 2025 um ~23,3 % zurück** – konsistent mit dem dokumentierten Borkenkäferbefall in der Region.
 
 ### Visueller Vergleich
-![Harz 2017](exports/harz_2017.png)
-![Harz 2021](exports/harz_2021.png)
-![Harz 2025](exports/harz_2025.png)
+![Harz 2017](harz_2017.png)
+![Harz 2021](harz_2021.png)
+![Harz 2025](harz_2025.png)
 
 ### Daten
-Rohdaten (Pixelanzahl je Jahr) sind verfügbar unter [`/data`](data):
-- `harz_lulc_2017_stats.csv`
-- `harz_lulc_2021_stats.csv`
-- `harz_lulc_2025_stats.csv`
+Rohdaten (Pixelanzahl je Jahr):
+- [harz_lulc_2017_stats.csv](harz_lulc_2017_stats.csv)
+- [harz_lulc_2021_stats.csv](harz_lulc_2021_stats.csv)
+- [harz_lulc_2025_stats.csv](harz_lulc_2025_stats.csv)
 
 ### Werkzeuge
 ArcGIS Pro · ArcGIS Living Atlas (Esri/Impact Observatory Sentinel-2 10m LULC) · Copy Raster · Raster-Attributtabellen
